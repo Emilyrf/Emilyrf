@@ -9,5 +9,3 @@
     </a>
 </div>
 
-
-![Snake animation](https://github.com/Emilyrf/Emilyrf/blob/output/github-contribution-grid-snake.svg)
